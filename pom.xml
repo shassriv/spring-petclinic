@@ -45,7 +45,7 @@
 <distributionManagement>
    <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://52.39.168.68:8080/nexus-latest/content/repositories/Deploy/</url>
+      <url>http://52.35.209.239:8080/nexus-latest/content/repositories/Deploy/</url>
    </snapshotRepository>
 </distributionManagement>
     <dependencyManagement>
